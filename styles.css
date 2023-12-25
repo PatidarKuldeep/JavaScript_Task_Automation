@@ -1,0 +1,20 @@
+ form{
+    display: grid;
+    gap: 5px;
+    font-size: larger;
+    margin: 80px;
+    padding: 10px;
+  }
+  button{
+    margin-top: 20px;
+    padding: 8px;
+    background-color: #4caf50;
+    width: 90px;
+  }
+  .results p{
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
